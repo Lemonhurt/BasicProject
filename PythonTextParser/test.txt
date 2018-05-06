@@ -1,0 +1,27 @@
+Welcome to here
+
+I'm a Python engineer.
+Perfection is my pursuit of the program.
+Being conscientious is my attitude towards work.
+I'm still an interesting person.
+Movie control, science fiction fan, love fitness, love to cook, table tennis masters, can learn the cat meow..
+
+Skills
+
+-web development
+
+-crawler
+
+-automated operation and maintenance
+
+-data analysis
+
+-machine learning
+
+Contact me
+
+-Wechat:775790468
+
+-tel: 18019393662
+
+-E-mail:775790468@qq.com
